@@ -18,6 +18,7 @@
                 "F:\\arduino-1.8.5\\hardware\\arduino\\avr\\variants\\standard",
                 "F:\\arduino-1.8.5\\libraries\\Servo\\src",
                 "F:\\arduino-1.8.5\\libraries\\LiquidCrystal\\src",
+                "F:\\arduino-1.8.5\\libraries\\Move",
                 "f:\\arduino-1.8.5\\hardware\\tools\\avr\\lib\\gcc\\avr\\4.9.2\\include",
                 "f:\\arduino-1.8.5\\hardware\\tools\\avr\\lib\\gcc\\avr\\4.9.2\\include-fixed",
                 "f:\\arduino-1.8.5\\hardware\\tools\\avr\\avr\\include"
